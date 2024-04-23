@@ -19,3 +19,8 @@ node index.js
 
 [Documentation](https://expressjs.com/en/starter/basic-routing.html)
 
+# Step-3 
+
+## Serving static files in Express
+
+[Documentation](https://expressjs.com/en/starter/static-files.html)
